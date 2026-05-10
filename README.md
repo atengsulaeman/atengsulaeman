@@ -1,3 +1,6 @@
+Hehe oke 1 paket! Copy semua ini lalu replace semua isi README: 👇
+
+```markdown
 # Hi, I'm Ateng Sulaeman 👋
 
 🔨 Building real apps from Halmahera, Indonesia  
@@ -8,7 +11,7 @@
 
 ## 🙋 About Me
 
-Saya seorang operator dump truk, mahasiswa, dan developer
+Saya seorang operator dump truck, mahasiswa, dan developer
 di sela-sela waktu yang ada.
 Belajar dari nol, membangun dari nyata.
 Karena keterbatasan bukan alasan — tapi bahan bakar.
@@ -59,9 +62,9 @@ Karena keterbatasan bukan alasan — tapi bahan bakar.
 
 | Project | Deskripsi | Link |
 |---|---|---|
-| 📱 **HimaLink** | Android app HIMA RPL UDN — Google Play | [Play Store](https://play.google.com/store/apps/details?id=com.himarpl.udn) |
-| 🌏 **ATSU WedaBay** | Super app komunitas warga Weda Bay | Coming soon |
-| ✊ **FSPMI IWIP** | Website resmi serikat buruh PT IWIP | [Website](http://puk-splp-fspmi-pt-iwip.netlify.app) |
+| 📱 **HIMA RPL UDN** | Android app HIMA RPL UDN — Google Play | [Play Store](https://play.google.com/store/apps/details?id=com.himarpl.udn) |
+| 🌏 **ATSU Aing Torang sekampUng** | Super app komunitas warga Weda Bay | Coming soon |
+| ✊ **PUK SPLP FSPMI PT IWIP** | Website resmi serikat buruh | [Website](http://puk-splp-fspmi-pt-iwip.netlify.app) |
 
 ---
 
@@ -69,7 +72,7 @@ Karena keterbatasan bukan alasan — tapi bahan bakar.
 
 
 
-![Atsu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=atengsulaeman&show_icons=true&theme=dark)
+![Ateng Sulaeman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=atengsulaeman&show_icons=true&theme=dark)
 
 
 
@@ -78,4 +81,7 @@ Karena keterbatasan bukan alasan — tapi bahan bakar.
 ## 📬 Contact
 
 📧 atengsulaeman.dev@gmail.com  
-🌐 atengsulaeman.com
+🌐 atengsulaeman.com  
+```
+
+Replace semua → commit! 🚀
