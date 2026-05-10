@@ -60,8 +60,8 @@ Karena keterbatasan bukan alasan — tapi bahan bakar.
 | Project | Deskripsi | Link |
 |---|---|---|
 | 📱 **HIMA RPL UDN** | Android app HIMA RPL UDN — Google Play | [Play Store](https://play.google.com/store/apps/details?id=com.himarpl.udn) |
-| 🌏 **ATSU WedaBay** | Super app komunitas warga Weda Bay | Coming soon |
-| ✊ **FSPMI IWIP** | Website resmi serikat buruh PT IWIP | [Website](http://puk-splp-fspmi-pt-iwip.netlify.app) |
+| 🌏 **ATSU Aing Torang sekampUng** | Super app komunitas warga Weda Bay | Coming soon |
+| ✊ **PUK SPLP FSPMI PT IWIP** | Website resmi serikat buruh PT IWIP | [Website](http://puk-splp-fspmi-pt-iwip.netlify.app) |
 
 ---
 
