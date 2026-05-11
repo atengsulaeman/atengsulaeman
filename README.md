@@ -78,4 +78,6 @@ Karena keterbatasan bukan alasan — tapi bahan bakar.
 ## 📬 Contact
 
 📧 atengsulaeman.dev@gmail.com  
-🌐 atengsulaeman.com
+🌐 atengsulaeman.com  
+💼 linkedin.com/in/atengsulaeman  
+🐙 github.com/atengsulaeman
