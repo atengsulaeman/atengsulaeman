@@ -5,7 +5,7 @@
 <br/>
 <img src="https://b187-dashboard.vercel.app/api/status" width="100%" alt="Unit B-187 Live Status"/>
 <br/>
-<img src="https://b187-dashboard.vercel.app/api/journey" width="100%" alt="Journey Map"/>
+<img src="https://b187-dashboard.vercel.app/api/journey?v=3" width="100%" alt="Journey Map"/>
 <img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1200&color=8B5CF6&center=true&vCenter=true&width=650&lines=Turning+Real+Problems+Into+Digital+Solutions;Industrial+Worker;Software+Engineering+Student;Self-Taught+Developer;AI+and+Digital+Innovation;Building+Beyond+Limitations"/>
 
 <br/>
