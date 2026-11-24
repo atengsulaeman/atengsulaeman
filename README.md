@@ -1,6 +1,7 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,35:28134F,70:8B5CF6,100:FF007F&height=220&section=header&text=ATENG%20SULAEMAN&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=FROM%20MINING%20TO%20CODING&descSize=20&descAlignY=62"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?
+type=rect&color=0:0D1117,35:28134F,70:8B5CF6,100:FF007F&height=220&section=header&text=ATENG%20SULAEMAN&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=FROM%20MINING%20TO%20CODING&descSize=20&descAlignY=62"/>
 
 <img width="100%" src="https://b187-dashboard.vercel.app/api/status" alt="Unit B-187 Live Status"/>
 
@@ -24,14 +25,6 @@
 I operate a **Shacman F3000 dump truck (Unit B-187)** at Weda Bay, Halmahera Tengah. Between day and night shifts, I build apps from my phone in the worker mess, and I'm studying **Software Engineering at Universitas Darunnajah**.
 
 Before this: cleaning service, construction worker, PLN genset operator from Aceh to Kalimantan, ojol, tronton driver, and online taxi driver. Every job taught me something I now bring into code.
-
----
-
-## 🗺️ Life Journey
-
-<div align="center">
-<img width="100%" src="https://b187-dashboard.vercel.app/api/journey?v=3" alt="Life Journey: Tasikmalaya to Weda Bay"/>
-</div>
 
 ---
 
