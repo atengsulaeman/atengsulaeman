@@ -1,216 +1,80 @@
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,35:28134F,70:8B5CF6,100:FF007F&height=240&section=header&text=ATENG%20SULAEMAN&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=FROM%20MINING%20TO%20CODING&descSize=20&descAlignY=62"/>
-<br/>
-<img src="https://b187-dashboard.vercel.app/api/status" width="100%" alt="Unit B-187 Live Status"/>
-<br/>
-<img src="https://b187-dashboard.vercel.app/api/journey?v=3" width="100%" alt="Journey Map"/>
-<img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1200&color=8B5CF6&center=true&vCenter=true&width=650&lines=Turning+Real+Problems+Into+Digital+Solutions;Industrial+Worker;Software+Engineering+Student;Self-Taught+Developer;AI+and+Digital+Innovation;Building+Beyond+Limitations"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,35:28134F,70:8B5CF6,100:FF007F&height=220&section=header&text=ATENG%20SULAEMAN&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=FROM%20MINING%20TO%20CODING&descSize=20&descAlignY=62"/>
 
-<br/>
+<img width="100%" src="https://b187-dashboard.vercel.app/api/status" alt="Unit B-187 Live Status"/>
+
+<img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1200&color=8B5CF6&center=true&vCenter=true&width=650&lines=Dump+Truck+Operator+by+Day+and+Night;Software+Engineering+Student;Self-Taught+Developer+from+a+Worker+Mess;Building+Beyond+Limitations"/>
 
 <img src="https://komarev.com/ghpvc/?username=atengsulaeman&color=ff007f&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
-
-<a href="https://ateng-impact.netlify.app">
-<img src="https://img.shields.io/badge/PORTFOLIO-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<a href="https://play.google.com/store/apps/details?id=com.himarpl.udn">
-<img src="https://img.shields.io/badge/GOOGLE_PLAY-FF007F?style=for-the-badge&logo=googleplay&logoColor=white"/>
-</a>
+<a href="https://ateng-impact.netlify.app"><img src="https://img.shields.io/badge/PORTFOLIO-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://play.google.com/store/apps/details?id=com.himarpl.udn"><img src="https://img.shields.io/badge/GOOGLE_PLAY-FF007F?style=for-the-badge&logo=googleplay&logoColor=white"/></a>
 
 </div>
 
 ---
 
-## ⚡ 01 — ABOUT ME
+## ⚡ About Me
 
-> From Mining to Coding — Building Technology Beyond Limitations.
+> **From Mining to Coding** — building technology beyond limitations.
 
-I am an industrial worker, Software Engineering student, and self-taught developer from Indonesia.
+I operate a **Shacman F3000 dump truck (Unit B-187)** at Weda Bay, Halmahera Tengah. Between day and night shifts, I build apps from my phone in the worker mess, and I'm studying **Software Engineering at Universitas Darunnajah**.
 
-Passionate about building practical digital solutions for real-world challenges while continuously learning and improving.
-
-- 🚛 Dump Truck Operator
-- 🎓 Software Engineering — Universitas Darunnajah
-- 📱 Android & Web Application Development
-- 🤖 AI Integration & Digital Innovation
-- 🗄️ Cloud Databases & Backend Technologies
-- 🌱 Lifelong Learning
-- 🇮🇩 Building Real-World Solutions From Indonesia
+Before this: cleaning service, construction worker, PLN genset operator from Aceh to Kalimantan, ojol, tronton driver, and online taxi driver. Every job taught me something I now bring into code.
 
 ---
 
-## 💻 02 — TECHNOLOGY STACK
+## 🗺️ Life Journey
+
+<div align="center">
+<img width="100%" src="https://b187-dashboard.vercel.app/api/journey?v=3" alt="Life Journey: Tasikmalaya to Weda Bay"/>
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | What it is | Status |
+|---|---|---|
+| [HimaLink](https://play.google.com/store/apps/details?id=com.himarpl.udn) | Android app for HIMA RPL UDN | 🟢 Live on Google Play |
+| [HIMA RPL UDN](https://hima-rpl-udn.web.app) | Academic information website | 🟢 Published |
+| [OPDT-BOT](https://github.com/atengsulaeman/opdt-bot) | AI assistant for dump truck operators | 🟢 Public |
+| [B-187 Dashboard](https://github.com/atengsulaeman/b187-dashboard) | Live shift status & journey map on this profile | 🟢 Live |
+| [PUK SPLP FSPMI PT IWIP](https://puk-splp-fspmi-pt-iwip.netlify.app) | Organization website | 🟢 Published |
+| [ATSU WedaBay](https://atsu-wedabay.web.app) | Community digital platform | 🟡 Testing |
+| RETASE | Digital haul-trip (ritase) reporting | 🔵 In development |
+
+**Planned:** Putra Jaya Diesel (spare parts catalog) · Komunitas Akselerasi Kuliah · Kedai Coaches 25
+
+---
+
+## 💻 Tech Stack
 
 <div align="center">
 
-### FRONTEND DEVELOPMENT
-
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark"/>
-
-### BACKEND & CLOUD DATABASE
-
-<img src="https://skillicons.dev/icons?i=firebase,supabase&theme=dark"/>
-
-### PROGRAMMING & DEVELOPMENT TOOLS
-
-<img src="https://skillicons.dev/icons?i=python,github,git,vscode,netlify&theme=dark&perline=5"/>
-
-### AI & MOBILE TECHNOLOGY
+<img src="https://skillicons.dev/icons?i=html,css,js,python,firebase,supabase,git,github,vscode,netlify&theme=dark&perline=10"/>
 
 <img src="https://img.shields.io/badge/Gemini_AI-8B5CF6?style=for-the-badge&logo=googlegemini&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android-3ECF8E?style=for-the-badge&logo=android&logoColor=black"/>
 <img src="https://img.shields.io/badge/Termux-0D1117?style=for-the-badge&logo=gnubash&logoColor=white"/>
-
-### CLOUD & DEPLOYMENT
-
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black"/>
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=black"/>
-<img src="https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 
 </div>
 
 ---
 
-## 🚀 03 — FEATURED PROJECTS
-
-> Turning Real Problems Into Digital Solutions.
-
-| Project | Description | Status |
-|---|---|---|
-| [HIMA RPL UDN](https://hima-rpl-udn.web.app) | Academic Information System | 🟢 Published |
-| RETASEKU | Digital Operational Reporting | 🔵 In Development |
-| [OPDT-BOT](https://github.com/atengsulaeman/opdt-bot) | AI Dump Truck Assistant | 🟢 Public Repository |
-| [ATSU WEDABAY](https://atsu-wedabay.web.app) | Community Digital Platform | 🟡 Testing |
-| [PUK SPLP FSPMI PT IWIP](https://puk-splp-fspmi-pt-iwip.netlify.app) | Organization Website | 🟢 Published |
-| [AI-LAB](https://github.com/atengsulaeman/AI-Lab) | AI & Technology Learning | 🟣 Learning Project |
-
-<div align="center">
-
-<a href="https://ateng-impact.netlify.app">
-<img src="https://img.shields.io/badge/EXPLORE_MY_WORK-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-## 🔮 04 — UPCOMING PROJECTS
-
-### ⚙️ PUTRA JAYA DIESEL
-
-![Status](https://img.shields.io/badge/STATUS-PLANNED-FF007F?style=flat-square)
-
-**Digital Spare Parts Management System**
-
-- Digital Product Catalog
-- Mobile Administration Dashboard
-- Inventory Management
-- WhatsApp Integration
-
-### 🎓 KOMUNITAS AKSELERASI KULIAH (KAK)
-
-![Status](https://img.shields.io/badge/STATUS-PLANNED-8B5CF6?style=flat-square)
-
-**Digital Community & Academic Platform**
-
-- Community Information System
-- Academic Collaboration
-- Educational Resources
-- Community Digitalization
-
-### ☕ KEDAI COACHES 25
-
-![Status](https://img.shields.io/badge/STATUS-PLANNED-00C7B7?style=flat-square)
-
-**Digital Culinary & Business Platform**
-
-- Digital Business Profile
-- Online Menu Catalog
-- Customer Engagement
-- Digital Marketing Integration
-
----
-
-## 🏅 05 — PROFESSIONAL CERTIFICATIONS
+## 🏅 Certifications
 
 - AI Productivity & AI API Integration — HACKTIV8
 - AI for Work & Career Readiness — HACKTIV8
 - Occupational Safety & Health (K3)
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/AI_INTEGRATION-8B5CF6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DIGITAL_INNOVATION-FF007F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SAFETY_FIRST-3ECF8E?style=for-the-badge"/>
-
-</div>
-
 ---
 
-## 📊 06 — GITHUB STATISTICS
+## 📈 Activity
 
 <div align="center">
-
-<img width="95%" src="https://github-readme-stats.vercel.app/api?username=atengsulaeman&show_icons=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF007F&text_color=F8FAFC&border_color=8B5CF6&border_radius=15"/>
-
-<br/>
-
-<img width="95%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atengsulaeman&layout=compact&bg_color=0D1117&title_color=FF69B4&text_color=F8FAFC&border_color=8B5CF6&border_radius=15"/>
-
-<br/>
-
 <img width="95%" src="https://streak-stats.demolab.com?user=atengsulaeman&theme=radical&background=0D1117&border=8B5CF6&ring=FF007F&fire=FF007F&currStreakLabel=00F5FF&border_radius=15"/>
-
-</div>
-
----
-
-## 📈 07 — CONTRIBUTION ACTIVITY
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=atengsulaeman&bg_color=0D1117&color=00F5FF&line=FF007F&point=F8FAFC&area=true&hide_border=false&border_color=8B5CF6"/>
-
-</div>
-
----
-
-## 🎯 08 — MISSION & VISION
-
-### MISSION
-
-- Build practical and accessible digital solutions.
-- Connect technology with real-world challenges.
-- Empower education, industry, communities, and local businesses.
-- Continue learning, experimenting, and innovating.
-- Create meaningful impact through technology.
-
-### VISION
-
-To become a technology professional who contributes to society through innovation, education, and sustainable digital transformation.
-
----
-
-## 🌐 09 — CONNECT WITH ME
-
-<div align="center">
-
-<a href="https://github.com/atengsulaeman">
-<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://ateng-impact.netlify.app">
-<img src="https://img.shields.io/badge/WEBSITE-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<a href="https://play.google.com/store/apps/details?id=com.himarpl.udn">
-<img src="https://img.shields.io/badge/GOOGLE_PLAY-FF007F?style=for-the-badge&logo=googleplay&logoColor=white"/>
-</a>
-
 </div>
 
 ---
@@ -221,7 +85,11 @@ To become a technology professional who contributes to society through innovatio
 
 *Limitations are not barriers. They are fuel for innovation.*
 
-🇮🇩 Proudly Building From Indonesia
+<a href="https://github.com/atengsulaeman"><img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://ateng-impact.netlify.app"><img src="https://img.shields.io/badge/WEBSITE-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://play.google.com/store/apps/details?id=com.himarpl.udn"><img src="https://img.shields.io/badge/GOOGLE_PLAY-FF007F?style=for-the-badge&logo=googleplay&logoColor=white"/></a>
+
+🇮🇩 Proudly building from Weda Bay, Indonesia
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:8B5CF6,100:FF007F&height=120&section=footer"/>
 
