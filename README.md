@@ -4,8 +4,7 @@
 🎓 Pekerja Industri · Mahasiswa · Self-taught Developer  
 📱 Published on Google Play 
 
-
-![Profile Views](https://komarev.com/ghpvc/?username=atengsulaeman&color=brightgreen&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=atengsulaeman&base=1234&color=brightgreen&style=for-the-badge&label=ESTIMATED+PROFILE+VIEWS)
 
 ---
 
