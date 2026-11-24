@@ -9,6 +9,11 @@
 <img src="https://komarev.com/ghpvc/?username=atengsulaeman&color=ff007f&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 <a href="https://ateng-impact.netlify.app"><img src="https://img.shields.io/badge/PORTFOLIO-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 <a href="https://play.google.com/store/apps/details?id=com.himarpl.udn"><img src="https://img.shields.io/badge/GOOGLE_PLAY-FF007F?style=for-the-badge&logo=googleplay&logoColor=white"/></a>
+<div align="center">
+<img width="100%" src="https://b187-dashboard.vercel.app/api/journey?v=3" alt="Life Journey: Tasikmalaya to Weda Bay"/>
+</div>
+
+## 🗺️ Life Journey
 
 </div>
 
