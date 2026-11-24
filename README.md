@@ -2,7 +2,9 @@
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,35:28134F,70:8B5CF6,100:FF007F&height=240&section=header&text=ATENG%20SULAEMAN&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=FROM%20MINING%20TO%20CODING&descSize=20&descAlignY=62"/>
-
+<br/>
+<img src="https://b187-dashboard.vercel.app/api/status" width="100%" alt="Unit B-187 Live Status"/>
+<br/>
 <img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1200&color=8B5CF6&center=true&vCenter=true&width=650&lines=Turning+Real+Problems+Into+Digital+Solutions;Industrial+Worker;Software+Engineering+Student;Self-Taught+Developer;AI+and+Digital+Innovation;Building+Beyond+Limitations"/>
 
 <br/>
